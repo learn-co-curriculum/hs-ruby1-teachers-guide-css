@@ -36,7 +36,7 @@
 ### Hints and Hurdles
 + Feel free to give students an introduction to Bootstrap during this class. Emphasize that it's important to be able to write HTML and CSS by hand, but that Bootstrap allows us to easily style our websites since not every developer has the design skills necessary to make something look snazzy.
 
-### On Ironboard
+### On Learn
 + Labs:
   + [Empire State](https://github.com/flatiron-school-curriculum/hs-empire-state-css-challenge)
   + [My Little Rainbow](https://github.com/flatiron-school-curriculum/hs-my-little-rainbow) 
