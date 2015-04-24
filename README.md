@@ -19,7 +19,7 @@
 + Explain that we write CSS in separate files, so that each file in our website has one job and one job only.
 
 ### Lesson Plan
-+ Start with CSS walkthrough on the screen, showing the uncompleted and completed versions, [found here](https://github.com/flatiron-school-curriculum/css-walkthrough-hs).
++ Start with CSS walkthrough on the screen, showing the uncompleted and completed versions, [found here](https://github.com/learn-co-curriculum/css-walkthrough-hs).
 + Students fork and clone walkthrough and open `index.html` in browser and Sublime.
 + Link CSS file to HTML file with `<link rel=”stylesheet” type=”text/css” href=”css/style.css”>`.
 + Make h1 tags larger and change the font to blue with `h1 {font-size: 40px; color: blue;}`.
@@ -38,18 +38,18 @@
 
 ### On Learn
 + Labs:
-  + [Empire State](https://github.com/flatiron-school-curriculum/hs-empire-state-css-challenge)
-  + [My Little Rainbow](https://github.com/flatiron-school-curriculum/hs-my-little-rainbow) 
-  + [Graffiti Override](https://github.com/flatiron-school-curriculum/hs-css-graffiti-override)
-  + [Zetsy](https://github.com/flatiron-school-curriculum/hs-zetsy)
-  + [ZHW Shoes](https://github.com/flatiron-school-curriculum/hs-zhw-shoes-layout)
-  + [CSS Issue Bot](https://github.com/flatiron-school-curriculum/css-issue-bot-9000)
+  + [Empire State](https://github.com/learn-co-curriculum/hs-empire-state-css-challenge)
+  + [My Little Rainbow](https://github.com/learn-co-curriculum/hs-my-little-rainbow) 
+  + [Graffiti Override](https://github.com/learn-co-curriculum/hs-css-graffiti-override)
+  + [Zetsy](https://github.com/learn-co-curriculum/hs-zetsy)
+  + [ZHW Shoes](https://github.com/learn-co-curriculum/hs-zhw-shoes-layout)
+  + [CSS Issue Bot](https://github.com/learn-co-curriculum/css-issue-bot-9000)
 + Stretch Labs:
-  + [Concentration Game](https://github.com/flatiron-school-curriculum/fe-concentration-game)
-  + [eCard Site Layout](https://github.com/flatiron-school-curriculum/ecard-site-layout)
-  + [Animal Save](https://github.com/flatiron-school-curriculum/animal-save)
-  + [JQuery Selectors](https://github.com/flatiron-school-curriculum/fe-jquery-exploring-selectors)
-  + [JQuery Methods](https://github.com/flatiron-school-curriculum/fe-jquery-exploring-methods)
+  + [Concentration Game](https://github.com/learn-co-curriculum/fe-concentration-game)
+  + [eCard Site Layout](https://github.com/learn-co-curriculum/ecard-site-layout)
+  + [Animal Save](https://github.com/learn-co-curriculum/animal-save)
+  + [JQuery Selectors](https://github.com/learn-co-curriculum/fe-jquery-exploring-selectors)
+  + [JQuery Methods](https://github.com/learn-co-curriculum/fe-jquery-exploring-methods)
   
   
 
