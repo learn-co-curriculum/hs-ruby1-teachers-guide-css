@@ -20,7 +20,7 @@
 
 ### Lesson Plan
 + Start with CSS walkthrough on the screen, showing the uncompleted and completed versions, [found here](https://github.com/learn-co-curriculum/css-walkthrough-hs).
-+ Students fork and clone walkthrough and open `index.html` in browser and Sublime.
++ Students fork and clone walkthrough and open `index.html` in a browser and text editor.
 + Link CSS file to HTML file with `<link rel=”stylesheet” type=”text/css” href=”css/style.css”>`.
 + Make h1 tags larger and change the font to blue with `h1 {font-size: 40px; color: blue;}`.
 + Change h2 font size and color with hexadecimal colors.
