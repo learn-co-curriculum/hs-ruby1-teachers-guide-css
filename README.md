@@ -54,4 +54,4 @@
   
 
 
-<a href='https://learn.co/lessons/hs-ruby1-teachers-guide-css' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-ruby1-teachers-guide-css' title='Unit 7: CSS'>Unit 7: CSS</a> on Learn.co and start learning to code for free.</p>
